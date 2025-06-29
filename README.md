@@ -25,7 +25,7 @@ I'm a passionate software developer currently with strong background and experie
 ### Fee Management System 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
-FirstProjecct is a project built for keeping fee records of students in a school, creating downloadable student receipt and class list built with Django. This project demonstrates my ability in creating django projects and apps, implementing user authentication and authorization, modelling database, executing CRUD operations and generating downloadable pdfs.. You can check out the repository (https://github.com/Abigail-Acheampong/After_ALX_Project/tree/main/FirstProjecct).
+FirstProjecct is a project built for keeping fee records of students in a school, creating downloadable student receipt and class list built with Django. This project demonstrates my ability in creating django projects and apps, implementing user authentication and authorization, modelling database, executing CRUD operations and generating downloadable pdfs. You can check out the repository (https://github.com/Abigail-Acheampong/After_ALX_Project/tree/main/FirstProjecct).
 
 ## Get in Touch 📬
 
