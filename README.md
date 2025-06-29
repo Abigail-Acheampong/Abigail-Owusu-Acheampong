@@ -22,11 +22,10 @@ I'm a passionate software developer currently with strong background and experie
 
 ## Featured Projects 💻
 
-### Fee Management System (https://github.com/Abigail-Acheampong/After_ALX_Project/tree/main/FirstProjecct)
-
+### Fee Management System 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
-FirstProjecct is a **django project built for keeping fee records of students in a school, creating downloadable student receipt and class list [brief project description]** built with Django **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+FirstProjecct is a project built for keeping fee records of students in a school, creating downloadable student receipt and class list built with Django. This project demonstrates my ability in creating django projects and apps, implementing user authentication and authorization, modelling database, executing CRUD operations and generating downloadable pdfs.. You can check out the repository (https://github.com/Abigail-Acheampong/After_ALX_Project/tree/main/FirstProjecct).
 
 ## Get in Touch 📬
 
